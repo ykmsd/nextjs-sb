@@ -5,16 +5,16 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Create Next Apps</title>
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to a<a href="https://nextjs.org">my blog</a>
+          Welcome to <a href="https://nextjs.org">my blog!</a>
         </h1>
 
         <p className={styles.description}>
-          The home for all my 
+          The home for all my
           <code className={styles.code}>ideas</code>
         </p>
 
